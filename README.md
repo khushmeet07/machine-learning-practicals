@@ -141,6 +141,6 @@ This repository is intended for educational and portfolio purposes and can be ex
 
 ## Author
 
-**Your Name**
+**Khushmeet Kaur**
 
 Machine Learning | AI | Business Analytics
